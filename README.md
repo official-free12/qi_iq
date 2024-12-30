@@ -1,0 +1,6 @@
+# 企业发卡系统源码/带有代理功能发卡平台源码，6套模板
+
+用户须知：（请购买前务必阅读）<br>1：为避免不必要的纠纷，均以演示站为准，若无演示站请以演示图为准！<br>2：请仔细查看源码说明或演示站，演示图片，一但拍下，不接受非源码质量问题上的退款申请；<br>3：标价仅为源码费用，如果需要提供安装服务，请事先联系店主并确保你的主机必须为宝塔环境，需提供宝塔账号。<br>4：免费付费安装服务仅限搭建到服务器，能够访问前后台。涉及对接支付接口、API对接等服务，另外协商费用；<br>5：程序仅供学习研究，请勿用于非法用途，不得违反国家法律，否则后果自负，一切法律责任与本店无关。<br>6: 整站打包类以及其他数据类有一定误差，比如标题为6000实际可能为5980，网盘以及数据会有一些缺失，因为是整站打包无法一一排查！！但误差率小于8%左右，（拍下视为接受）<br>7：请仔细阅读以上条款再购买，拍下即代表同意条款并遵守约定，谢谢大家支持理解！<br>------------------------------------------------------------------------------------------------<br>全新企业发卡系统源码，带有代理功能的发卡平台源码，目前应该算是最完美的一款了，可运营。更新说明：支付界面 短链接 二维码 后台模板等修复及一些细节优化pc用户端后台稍微美化（颜色调整）支持6套模板，支持十多款发卡页面模板，支持支付API，具体查看演示站。<br>源码上传即可安装。演示站：example.com.example.com<br>发卡地址演示：example.com.example.com/details/01ED2E44<br>前台演示账号：yc888 qwe123456<br>后台演示：联系客服。<br>Admin后台登录页面重写（背景为随机更换）如需修改可自行替换/static/theme/default/images下的图片<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/zonLW" style="color: red;">https://mega-file.org/zonLW</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
